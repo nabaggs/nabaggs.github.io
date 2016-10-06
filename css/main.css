@@ -1,0 +1,90 @@
+body{
+	font-family: Open Sans Condensed;
+	margin-left:10%;
+	margin-right:10%;
+}
+
+h1, h2{
+	text-align:center;
+	color:#2B338F;
+}
+h1{
+	font-size:72px;
+	font-weight:900;
+}
+h2{
+	font-size:42px;
+	
+	padding-left:30px;
+}
+
+h4{
+	font-size:36px;
+}
+
+h5{
+	font-size:24px;
+}
+
+h6{
+	font-size:18px;
+}
+
+a{
+	color:#2B338F;
+	font-size:18px;
+	text-decoration:underline;
+	font-weight:bolder;
+}
+
+.InlineImage{
+	width:100px;
+	vertical-align: text-bottom;
+}
+
+.ImageBorder{
+	border:#DBDBDB 5px solid;
+	border-radius:5px;
+	box-shadow:1px 1px 2px grey;
+}
+
+.InsetText{
+	padding-left:10%;
+}
+
+.features{
+	text-align:center;
+    color:#323232;
+    font-size:1.2em;
+    padding-top:10px;
+}
+
+.divider h3{
+	color:#FFFBAA;
+	padding-top: 2%;
+	text-align:center;
+	font-size:45px;
+	vertical-align:center;
+}
+
+.divider{
+	background:#2B338F;
+	width:268px;
+	height:67px;
+	border-radius:5px;
+	box-shadow:1px 1px 2px grey;
+}
+
+.Video{
+	border:2px;
+	border-color:grey;
+	border-radius:2px;
+}
+
+.ExtraBold{
+	font-weight:bolder;
+}
+
+.RightText{
+	text-align:right;
+}
